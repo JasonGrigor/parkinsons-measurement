@@ -1,3 +1,6 @@
+Parkinson’s Measurement is a software tool that measures the tremors of the user’s hand while holding the computer mouse, by tracking the movement of the cursor on the screen.
+It was created on behalf of CosyLLab of University of Piraeus Research Center, as an application to assist the research of Aegeniteio Hospital in the subject of medication side effects to patients.
+
 Currently Parkinson’s Measurement is only available in greek language. An english translation might be available in the future.
 
 # Parkinson’s Measurement
